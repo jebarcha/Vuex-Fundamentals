@@ -10,6 +10,13 @@ npm install
 npm run serve
 ```
 
+# Vuex Fundamentals
+* we have our state
+* mutations modify the state
+* actions can dispatch mutations which modifies the state
+* getters are similar than computed properties to get information
+
+
 ### Compiles and minifies for production
 ```
 npm run build
